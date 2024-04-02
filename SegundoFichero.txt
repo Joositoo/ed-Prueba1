@@ -1,1 +1,3 @@
 Este es el segundo fichero
+
+Este cambio se estaría haciendo en "nuevaRama"
